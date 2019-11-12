@@ -16,3 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 Design : [https://dribbble.com/shots/2387470-Zara-Lookbook-Gallery-Freebie/attachments/460013][https://dribbble.com/shots/2387470-Zara-Lookbook-Gallery-Freebie/attachments/460013]
+On my Youtube Channel : [https://www.youtube.com/watch?v=quJJAufcwoo&feature=youtu.be][https://www.youtube.com/watch?v=quJJAufcwoo&feature=youtu.be]
+
+
